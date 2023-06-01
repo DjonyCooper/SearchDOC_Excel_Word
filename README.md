@@ -1,5 +1,3 @@
-# SearchDOC_Excel_Word
-<img src="[)"/>
 <h2 align="center">LIVE DEMO<br>(демонстрация функционала скрипта)</h2>
 
 <p align="center">
