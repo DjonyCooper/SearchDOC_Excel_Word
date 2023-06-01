@@ -4,7 +4,7 @@
 <img src="https://github.com/DjonyCooper/SearchDOC_Excel_Word/blob/master/Tutorial/Search_DOC_Tutorial.gif" width="100%"></p>
 
 <h2 align="center">Description<br>(описание)</h2>
-<div align="center"> 
+<div align="left"> 
 Шаг 1: Выбираем Excel файл, содержащий данные, которые мы планируем искать (в данном случае, столбик с артикулами)</br>
 Шаг 2: Проверяем, что в выпадающем списке выбран нужный столбец (из Excel файла)</br>
 Шаг 3: Выбираем файл (Word), в котором нужно найти и сравнить данные из первого файла.</br>
